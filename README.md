@@ -1,4 +1,4 @@
-# Link to Google Doc project.
+# Link to Google Doc project
 https://docs.google.com/document/d/1Kb_J5WfAwnJBapz6ZQFczAWgAVzlgKiWKP9tk-ZRwig/edit?usp=sharing
 
 
