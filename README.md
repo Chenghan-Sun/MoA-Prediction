@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1Kb_J5WfAwnJBapz6ZQFczAWgAVzlgKiWKP9tk-ZRwig/
 
 [2] Mechanisms of Action (MoA) Prediction - kaggle.com/c/lish-moa
 
-# Folder structure
+# Folders structure
 
 There's currently 2 models available.
 
